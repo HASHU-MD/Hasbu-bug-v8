@@ -1,0 +1,17 @@
+{
+  "name": "armageddon-v3-ultra",
+  "version": "6.0.0",
+  "description": "3000+ Commands Ultra Bot by MR HASHUU",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.6.0",
+    "@hapi/boom": "^10.0.1",
+    "pino": "^8.14.1",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
